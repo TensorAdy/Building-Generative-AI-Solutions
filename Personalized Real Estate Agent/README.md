@@ -41,8 +41,13 @@ Price: $700,000
 Bedrooms: 3
 Bathrooms: 2
 House Size: 2,000 sqft
-Description: Enjoy mountain living in this 3-bedroom, 2-bathroom home located in the scenic neighborhood of Mountain View. This property features a cozy living room with a wood-burning stove, a bright kitchen with mountain views, and a spacious deck for outdoor dining. The master suite offers a private balcony and a renovated bathroom with a walk-in shower. Embrace the beauty of nature in the large backyard with a garden and fruit trees.
-Neighborhood Description: Mountain View offers a tranquil setting with panoramic mountain views and easy access to hiking trails and ski resorts. Residents can enjoy outdoor activities year-round, from skiing in the winter to hiking and biking in the summer. With a strong sense of community and a variety of amenities, Mountain View is the perfect place for nature lovers.
+Description: Enjoy mountain living in this 3-bedroom, 2-bathroom home located in the scenic neighborhood of Mountain View.
+This property features a cozy living room with a wood-burning stove, a bright kitchen with mountain views, and a spacious deck for outdoor dining.
+The master suite offers a private balcony and a renovated bathroom with a walk-in shower.
+Embrace the beauty of nature in the large backyard with a garden and fruit trees.
+Neighborhood Description: Mountain View offers a tranquil setting with panoramic mountain views and easy access to hiking trails and ski resorts.
+ Residents can enjoy outdoor activities year-round, from skiing in the winter to hiking and biking in the summer.
+With a strong sense of community and a variety of amenities, Mountain View is the perfect place for nature lovers.
 ```
 
 After augmenting the results, the matched listings will be scored and personalized using the results along the buyer's preferences and priorities. The final recommendation can look as follows:
@@ -54,6 +59,10 @@ Price: $700,000
 Bedrooms: 3
 Bathrooms: 2
 Size sqft: 2,000 sqft
-Description: Immerse yourself in the tranquility of mountain living in this 3-bedroom, 2-bathroom home nestled in the scenic neighborhood of Mountain View. The cozy living room with a wood-burning stove, bright kitchen with mountain views, and spacious deck for outdoor dining make this property a perfect retreat for nature lovers. The master suite offers a private balcony and a renovated bathroom with a walk-in shower, while the large backyard with a garden and fruit trees provides ample space for gardening and relaxation.
-Neighborhood Description: Mountain View offers a serene setting with panoramic mountain views and easy access to hiking trails and ski resorts. Residents can enjoy the beauty of nature year-round, from skiing in the winter to hiking and biking in the summer. With a strong sense of community and a variety of amenities, Mountain View is an ideal choice for those seeking a peaceful and nature-filled lifestyle.
+Description: Immerse yourself in the tranquility of mountain living in this 3-bedroom, 2-bathroom home nestled in the scenic neighborhood of Mountain View.
+The cozy living room with a wood-burning stove, bright kitchen with mountain views, and spacious deck for outdoor dining make this property a perfect retreat for nature lovers.
+The master suite offers a private balcony and a renovated bathroom with a walk-in shower, while the large backyard with a garden and fruit trees provides ample space for gardening and relaxation.
+Neighborhood Description: Mountain View offers a serene setting with panoramic mountain views and easy access to hiking trails and ski resorts.
+Residents can enjoy the beauty of nature year-round, from skiing in the winter to hiking and biking in the summer.
+With a strong sense of community and a variety of amenities, Mountain View is an ideal choice for those seeking a peaceful and nature-filled lifestyle.
 ```
